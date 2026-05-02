@@ -21,6 +21,11 @@
       "id": "leaderboard",
       "repo": "https://github.com/cewlgruyere/Ballsdex-leaderboard-pack-v3",
       "branch": "main"
+    },
+    {
+      "id": "dexscript",
+      "repo": "https://github.com/Caylies/DexScript",
+      "branch": "BD-3.0"
     }
   ]
 }
