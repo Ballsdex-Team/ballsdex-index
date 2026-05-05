@@ -100,7 +100,11 @@
         "email": "gruyere@remicrodex.com"
       }
     ],
-    "urls": {},
+    "urls": {
+      "Repository": "https://github.com/cewlgruyere/Ballsdex-leaderboard-pack-v3",
+      "Documentation": "https://github.com/cewlgruyere/Ballsdex-leaderboard-pack-v3#readme",
+      "Issues": "https://github.com/cewlgruyere/Ballsdex-leaderboard-pack-v3/issues"
+    },
     "dependencies": []
   },
   {
