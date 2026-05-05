@@ -5,7 +5,7 @@
     "repo": "https://github.com/flaree/ballsdex-collector",
     "branch": "master",
     "name": "collector",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Collector package for BallsDex",
     "license": "MIT",
     "authors": [
@@ -17,9 +17,7 @@
     "urls": {
       "Homepage": "https://github.com/flaree/ballsdex-collector"
     },
-    "dependencies": [
-      "ballsdex>=3.0.0"
-    ]
+    "dependencies": []
   },
   {
     "id": "broadcast",
