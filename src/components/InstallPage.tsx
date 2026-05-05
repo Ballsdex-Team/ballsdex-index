@@ -5,7 +5,7 @@ location = "git+https://github.com/author/package.git@main"
 path = "package-name"
 enabled = true`;
 
-const CONFIG_PATH = 'extra/config.toml';
+const CONFIG_PATH = 'config/extra.toml';
 
 function CopyButton({ text }: { text: string }) {
   const [copied, setCopied] = useState(false);
@@ -57,8 +57,8 @@ export function InstallPage() {
         <>
           In the root of your Ballsdex bot, make sure the{' '}
           <Code>extra/</Code> folder exists and create{' '}
-          <Code>extra/config.toml</Code> if it isn't there yet.
-          <CodeBlock>{`# extra/config.toml
+          <Code>config/extra.toml</Code> if it isn't there yet.
+          <CodeBlock>{`# config/extra.toml
 # Add your packages below`}</CodeBlock>
         </>
       ),
@@ -79,7 +79,7 @@ export function InstallPage() {
       n: 3,
       title: (
         <>
-          Paste the snippet into <Code>extra/config.toml</Code>
+          Paste the snippet into <Code>config/extra.toml</Code>
         </>
       ),
       body: (
@@ -112,7 +112,7 @@ export function InstallPage() {
     <main className="mx-auto max-w-2xl px-4 py-12 sm:px-6">
       <h1 className="mb-2 text-2xl font-bold text-white">Installing a Package</h1>
       <p className="mb-10 text-sm text-zinc-400">
-        Packages are configured in <Code>extra/config.toml</Code> inside your
+        Packages are configured in <Code>config/extra.toml</Code> inside your
         Ballsdex bot directory. Follow the steps below to add one.
       </p>
 
