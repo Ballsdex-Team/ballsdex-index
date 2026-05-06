@@ -149,5 +149,27 @@
     "dependencies": [
       "asgiref>=3.8.1"
     ]
+  },
+  {
+    "id": "v2-completion",
+    "status": "unapproved",
+    "repo": "https://github.com/cewlgruyere/V2-Completion",
+    "branch": "main",
+    "name": "v2-completion",
+    "version": "0.0.1",
+    "description": "This BallsDex extensions overrides the V3 completion UI and reverts it back to the old one from V2. All credits go to the BallsDex team for making the old command (and new), and also the utils used by it. :3",
+    "license": "Apache-2.0",
+    "authors": [
+      {
+        "name": "gruyere",
+        "email": "gruyere@remicrodex.com"
+      }
+    ],
+    "urls": {
+      "Repository": "https://github.com/cewlgruyere/V2-Completion",
+      "Documentation": "https://github.com/cewlgruyere/V2-Completion#readme",
+      "Issues": "https://github.com/cewlgruyere/V2-Completion/issues"
+    },
+    "dependencies": []
   }
 ]
