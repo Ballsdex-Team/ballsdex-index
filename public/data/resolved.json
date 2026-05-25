@@ -121,9 +121,9 @@
     "status": "unapproved",
     "repo": "https://github.com/cewlgruyere/Leaderboard-BD",
     "branch": "main",
-    "install_url": "git+https://github.com/cewlgruyere/Leaderboard-BD@v1.0.2",
+    "install_url": "git+https://github.com/cewlgruyere/Leaderboard-BD@v1.0.3",
     "name": "leaderboard",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Leaderboard extension for BallsDex created by gruyere",
     "license": "Apache-2.0",
     "authors": [
