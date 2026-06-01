@@ -49,7 +49,7 @@
     },
     {
       "id": "rarity",
-      "repo": "https://github.com/hiboman/BallsDex-Rarity-Pack",
+      "repo": "https://github.com/MapsDex-Team/BallsDex-Rarity-Pack",
       "branch": "master"
     },
     {
@@ -61,6 +61,11 @@
       "id": "BossPackageBD",
       "repo": "https://github.com/MoOfficial0000/BossPackageBD",
       "branch": "BossPackageBD-V3"
+    },
+    {
+      "id": "ballsdex-leaderboard",
+      "repo": "https://github.com/MapsDex-Team/BallsDex-Leaderboard-Pack",
+      "branch": "master"
     }
   ]
 }
