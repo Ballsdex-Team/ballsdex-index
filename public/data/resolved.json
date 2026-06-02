@@ -190,9 +190,9 @@
     "status": "unapproved",
     "repo": "https://github.com/cewlgruyere/V2-Completion",
     "branch": "main",
-    "install_url": "git+https://github.com/cewlgruyere/V2-Completion@v0.0.1",
+    "install_url": "git+https://github.com/cewlgruyere/V2-Completion@v0.0.3",
     "name": "v2_completion",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "description": "This BallsDex extensions overrides the V3 completion UI and reverts it back to the old one from V2. All credits go to the BallsDex team for making the old command (and new), and also the utils used by it. :3",
     "license": "Apache-2.0",
     "authors": [
