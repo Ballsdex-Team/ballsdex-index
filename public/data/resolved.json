@@ -213,9 +213,9 @@
     "status": "unapproved",
     "repo": "https://github.com/MapsDex-Team/BallsDex-Rarity-Pack",
     "branch": "master",
-    "install_url": "git+https://github.com/MapsDex-Team/BallsDex-Rarity-Pack@0.0.3",
+    "install_url": "git+https://github.com/MapsDex-Team/BallsDex-Rarity-Pack@0.0.4",
     "name": "rarity",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "Rarity package for BallsDex",
     "license": "MIT",
     "authors": [
@@ -225,9 +225,9 @@
       }
     ],
     "urls": {
-      "Repository": "https://github.com/hiboman/BallsDex-Rarity-Pack",
-      "Documentation": "https://github.com/hiboman/BallsDex-Rarity-Pack#readme",
-      "Issues": "https://github.com/hiboman/BallsDex-Rarity-Pack/issues"
+      "Repository": "https://github.com/MapsDex-Team/BallsDex-Rarity-Pack",
+      "Documentation": "https://github.com/MapsDex-Team/BallsDex-Rarity-Pack#readme",
+      "Issues": "https://github.com/MapsDex-Team/BallsDex-Rarity-Pack/issues"
     },
     "dependencies": []
   },
