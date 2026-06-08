@@ -76,6 +76,11 @@
       "id": "re-collection",
       "repo": "https://github.com/cewlgruyere/ReCol",
       "branch": "master"
+    },
+    {
+      "id": "hiboman-antifarm",
+      "repo": "https://github.com/MapsDex-Team/BallsDex-AntiFarm-Pack",
+      "branch": "master"
     }
   ]
 }
