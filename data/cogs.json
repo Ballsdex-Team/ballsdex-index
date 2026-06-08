@@ -81,6 +81,11 @@
       "id": "hiboman-antifarm",
       "repo": "https://github.com/MapsDex-Team/BallsDex-AntiFarm-Pack",
       "branch": "master"
+    },
+    {
+      "id": "hiboman-battle",
+      "repo": "https://github.com/MapsDex-Team/BallsDex-Battle-Pack",
+      "branch": "master"
     }
   ]
 }
