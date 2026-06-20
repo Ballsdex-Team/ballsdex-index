@@ -86,6 +86,11 @@
       "id": "hiboman-battle",
       "repo": "https://github.com/MapsDex-Team/BallsDex-Battle-Pack",
       "branch": "master"
+    },
+    {
+      "id": "hiboman-crafting",
+      "repo": "https://github.com/MapsDex-Team/BallsDex-Crafting-Pack",
+      "branch": "master"
     }
   ]
 }
