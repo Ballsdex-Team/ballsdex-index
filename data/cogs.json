@@ -91,6 +91,11 @@
       "id": "hiboman-crafting",
       "repo": "https://github.com/MapsDex-Team/BallsDex-Crafting-Pack",
       "branch": "master"
+    },
+    {
+      "id": "packs",
+      "repo": "https://github.com/seiftheman/ballsdex-packs",
+      "branch": "main"
     }
   ]
 }
