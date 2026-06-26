@@ -2,7 +2,7 @@ name: Resolve Cog Metadata
 
 on:
   push:
-    branches: [main]
+    branches: [master]
     paths:
       - "data/cogs.json"
   schedule:
@@ -17,6 +17,10 @@ jobs:
   resolve:
     name: Clone repos & extract pyproject.toml metadata
     runs-on: ubuntu-latest
+    # Scheduled/dispatch runs also fire in forks (e.g. when a contributor's
+    # fork still has this workflow). Skip there so it never commits to a
+    # fork's branch and pollutes the resulting PR with bot commits.
+    if: github.repository == 'Ballsdex-Team/ballsdex-index'
 
     steps:
       - name: Checkout ballsdex-index
