@@ -7,7 +7,6 @@ on:
 
 permissions:
   contents: read
-  pull-requests: write
 
 jobs:
   validate:
@@ -34,52 +33,18 @@ jobs:
         run: |
           python scripts/check_releases.py missing-releases.md || true
           if [ -s missing-releases.md ]; then
-            echo "has_missing=true" >> "$GITHUB_OUTPUT"
+            echo "has_missing=true" > has_missing.txt
           else
-            echo "has_missing=false" >> "$GITHUB_OUTPUT"
+            echo "has_missing=false" > has_missing.txt
           fi
+          echo "${{ github.event.pull_request.number }}" > pr_number.txt
 
-      - name: Comment on PR about missing releases
-        uses: actions/github-script@v7
+      - name: Upload release check results
+        uses: actions/upload-artifact@v4
         with:
-          script: |
-            const fs = require('fs');
-            const marker = '<!-- missing-release-check -->';
-            const hasMissing = '${{ steps.check_releases.outputs.has_missing }}' === 'true';
-
-            const { data: comments } = await github.rest.issues.listComments({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-            });
-            const existing = comments.find((c) => c.body.includes(marker));
-
-            if (!hasMissing) {
-              if (existing) {
-                await github.rest.issues.deleteComment({
-                  owner: context.repo.owner,
-                  repo: context.repo.repo,
-                  comment_id: existing.id,
-                });
-              }
-              return;
-            }
-
-            const details = fs.readFileSync('missing-releases.md', 'utf8');
-            const body = `${marker}\n### ⚠️ Missing release\n\nThe following cog(s) declare a version in \`pyproject.toml\` with no matching git tag/release. They won't appear on the site until a release is cut:\n\n${details}`;
-
-            if (existing) {
-              await github.rest.issues.updateComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                comment_id: existing.id,
-                body,
-              });
-            } else {
-              await github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: context.issue.number,
-                body,
-              });
-            }
+          name: release-check-results
+          path: |
+            missing-releases.md
+            has_missing.txt
+            pr_number.txt
+          retention-days: 1
