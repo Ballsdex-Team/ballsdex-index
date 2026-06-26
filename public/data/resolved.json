@@ -48,52 +48,6 @@
     "dependencies": []
   },
   {
-    "id": "crafting",
-    "status": "unapproved",
-    "repo": "https://github.com/flaree/ballsdex-crafting",
-    "branch": "master",
-    "install_url": "git+https://github.com/flaree/ballsdex-crafting.git#master",
-    "name": "crafting",
-    "version": "0.0.2",
-    "description": "Crafting package for BallsDex",
-    "license": "MIT",
-    "authors": [
-      {
-        "name": "flare",
-        "email": "flare@ballsdex.com"
-      }
-    ],
-    "urls": {
-      "Homepage": "https://github.com/flaree/ballsdex-crafting",
-      "Funding": "https://www.patreon.com/flaree"
-    },
-    "dependencies": []
-  },
-  {
-    "id": "broadcast",
-    "status": "unapproved",
-    "repo": "https://github.com/Ray-Hsueh/BallsDex-Broadcast-Pack",
-    "branch": "main",
-    "install_url": "git+https://github.com/Ray-Hsueh/BallsDex-Broadcast-Pack.git#main",
-    "name": "ballsdex-broadcast",
-    "version": "0.0.0",
-    "description": "Broadcast package for Ballsdex 3.0",
-    "license": "Apache-2.0",
-    "authors": [
-      {
-        "name": "Ray Hsueh",
-        "email": "ray.hsueh.founder@gmail.com"
-      }
-    ],
-    "urls": {
-      "Repository": "https://github.com/Ray-Hsueh/BallsDex-Broadcast-Pack",
-      "Documentation": "https://github.com/Ray-Hsueh/BallsDex-Broadcast-Pack#readme",
-      "Issues": "https://github.com/Ray-Hsueh/BallsDex-Broadcast-Pack/issues",
-      "Funding": "https://ko-fi.com/rayhsueh"
-    },
-    "dependencies": []
-  },
-  {
     "id": "bd-labelmaker",
     "status": "unapproved",
     "repo": "https://github.com/dormieriancitizen/bd-labelmaker",
@@ -111,30 +65,6 @@
     ],
     "urls": {
       "homepage": "https://github.com/dormieriancitizen/bd-labelmaker"
-    },
-    "dependencies": []
-  },
-  {
-    "id": "report",
-    "status": "unapproved",
-    "repo": "https://github.com/Ray-Hsueh/BallsDex-Report-Pack",
-    "branch": "main",
-    "install_url": "git+https://github.com/Ray-Hsueh/BallsDex-Report-Pack.git#main",
-    "name": "ballsdex-report",
-    "version": "0.0.0",
-    "description": "A standardized report system for Ballsdex 3.0 allowing users to submit bugs, violations, and suggestions",
-    "license": "Apache-2.0",
-    "authors": [
-      {
-        "name": "Ray Hsueh",
-        "email": "ray.hsueh.founder@gmail.com"
-      }
-    ],
-    "urls": {
-      "Repository": "https://github.com/Ray-Hsueh/BallsDex-Report-Pack",
-      "Documentation": "https://github.com/Ray-Hsueh/BallsDex-Report-Pack#readme",
-      "Issues": "https://github.com/Ray-Hsueh/BallsDex-Report-Pack/issues",
-      "Funding": "https://ko-fi.com/rayhsueh"
     },
     "dependencies": []
   },
@@ -182,30 +112,6 @@
       "Funding": "https://ko-fi.com/caylies"
     },
     "dependencies": []
-  },
-  {
-    "id": "collect",
-    "status": "unapproved",
-    "repo": "https://github.com/CrashTestAlex/collectibles-ballsdex",
-    "branch": "main",
-    "install_url": "git+https://github.com/CrashTestAlex/collectibles-ballsdex.git#main",
-    "name": "collect",
-    "version": "1.3.0",
-    "description": "Collectible items for your BallsDex clone! Must have currency enabled.",
-    "license": "MIT",
-    "authors": [
-      {
-        "name": "crashtestalex"
-      }
-    ],
-    "urls": {
-      "Repository": "https://github.com/CrashTestAlex/collectibles-ballsdex",
-      "Documentation": "https://github.com/CrashTestAlex/collectibles-ballsdex#readme",
-      "Issues": "https://github.com/CrashTestAlex/collectibles-ballsdex/issues"
-    },
-    "dependencies": [
-      "asgiref>=3.8.1"
-    ]
   },
   {
     "id": "v2-completion",
@@ -275,29 +181,6 @@
     "dependencies": []
   },
   {
-    "id": "BossPackageBD",
-    "status": "unapproved",
-    "repo": "https://github.com/MoOfficial0000/BossPackageBD",
-    "branch": "BossPackageBD-V3",
-    "install_url": "git+https://github.com/MoOfficial0000/BossPackageBD.git#BossPackageBD-V3",
-    "name": "boss",
-    "version": "1.0.0",
-    "description": "Boss package for BallsDex",
-    "license": "MIT",
-    "authors": [
-      {
-        "name": "Mo Official",
-        "email": "moofficial420@gmail.com"
-      }
-    ],
-    "urls": {
-      "Repository": "https://github.com/MoOfficial0000/BossPackageBD",
-      "Documentation": "https://github.com/MoOfficial0000/BossPackageBD#readme",
-      "Issues": "https://github.com/MoOfficial0000/BossPackageBD/issues"
-    },
-    "dependencies": []
-  },
-  {
     "id": "hiboman-leaderboard",
     "status": "unapproved",
     "repo": "https://github.com/MapsDex-Team/BallsDex-Leaderboard-Pack",
@@ -318,25 +201,6 @@
       "Documentation": "https://github.com/MapsDex-Team/BallsDex-Leaderboard-Pack#readme",
       "Issues": "https://github.com/MapsDex-Team/BallsDex-Leaderboard-Pack/issues"
     },
-    "dependencies": []
-  },
-  {
-    "id": "re-collection",
-    "status": "unapproved",
-    "repo": "https://github.com/cewlgruyere/ReCol",
-    "branch": "master",
-    "install_url": "git+https://github.com/cewlgruyere/ReCol.git#master",
-    "name": "ReCollection",
-    "version": "1.0.0",
-    "description": "This BallsDex extension adds a new option to /balls collection, allowing you to pick a user. Along with that, it also comes with new UI for the command which can be toggled in the admin panel!",
-    "license": "Apache-2.0",
-    "authors": [
-      {
-        "name": "gruyere",
-        "email": "gruyere@remicrodex.com"
-      }
-    ],
-    "urls": {},
     "dependencies": []
   },
   {
@@ -382,28 +246,6 @@
       "Repository": "https://github.com/hiboman/BallsDex-Battle-Pack",
       "Documentation": "https://github.com/hiboman/BallsDex-Battle-Pack#readme",
       "Issues": "https://github.com/hiboman/BallsDex-Battle-Pack/issues"
-    },
-    "dependencies": []
-  },
-  {
-    "id": "hiboman-crafting",
-    "status": "unapproved",
-    "repo": "https://github.com/MapsDex-Team/BallsDex-Crafting-Pack",
-    "branch": "master",
-    "install_url": "git+https://github.com/MapsDex-Team/BallsDex-Crafting-Pack.git#master",
-    "name": "crafting",
-    "version": "0.3.1",
-    "description": "Crafting package for BallsDex",
-    "license": "",
-    "authors": [
-      {
-        "name": "Mitoooooooopo"
-      }
-    ],
-    "urls": {
-      "Repository": "https://github.com/Mitoooooooopo/Crafting-package-BD",
-      "Documentation": "https://github.com/Mitoooooooopo/Crafting-package-BD#readme",
-      "Issues": "https://github.com/Mitoooooooopo/Crafting-package-BD/issues"
     },
     "dependencies": []
   }
