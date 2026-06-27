@@ -96,6 +96,11 @@
       "id": "SpecialBonuses",
       "repo": "https://github.com/cewlgruyere/SpecialBonuses",
       "branch": "main"
-    } 
+    },
+    {
+      "id": "packs",
+      "repo": "https://github.com/seiftheman/ballsdex-packs",
+      "branch": "main"
+    }
   ]
 }

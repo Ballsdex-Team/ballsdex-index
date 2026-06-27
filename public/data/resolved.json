@@ -204,6 +204,25 @@
     "dependencies": []
   },
   {
+    "id": "re-collection",
+    "status": "unapproved",
+    "repo": "https://github.com/cewlgruyere/ReCol",
+    "branch": "master",
+    "install_url": "git+https://github.com/cewlgruyere/ReCol@1.0.0",
+    "name": "ReCollection",
+    "version": "1.0.0",
+    "description": "This BallsDex extension adds a new option to /balls collection, allowing you to pick a user. Along with that, it also comes with new UI for the command which can be toggled in the admin panel!",
+    "license": "Apache-2.0",
+    "authors": [
+      {
+        "name": "gruyere",
+        "email": "gruyere@remicrodex.com"
+      }
+    ],
+    "urls": {},
+    "dependencies": []
+  },
+  {
     "id": "hiboman-antifarm",
     "status": "unapproved",
     "repo": "https://github.com/MapsDex-Team/BallsDex-AntiFarm-Pack",
@@ -288,6 +307,26 @@
       }
     ],
     "urls": {},
+    "id": "packs",
+    "status": "unapproved",
+    "repo": "https://github.com/seiftheman/ballsdex-packs",
+    "branch": "main",
+    "install_url": "git+https://github.com/seiftheman/ballsdex-packs@v1.0.0",
+    "name": "packs",
+    "version": "1.0.0",
+    "description": "Packs package for Ballsdex 3.0",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Seif",
+        "email": "seiftheman1@gmail.com"
+      }
+    ],
+    "urls": {
+      "Repository": "https://github.com/seiftheman/ballsdex-packs",
+      "Documentation": "https://github.com/seiftheman/ballsdex-packs#readme",
+      "Issues": "https://github.com/seiftheman/ballsdex-packs/issues"
+    },
     "dependencies": []
   }
 ]
