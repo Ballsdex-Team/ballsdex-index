@@ -269,33 +269,11 @@
     "dependencies": []
   },
   {
-    "id": "hiboman-crafting",
-    "status": "unapproved",
-    "repo": "https://github.com/MapsDex-Team/BallsDex-Crafting-Pack",
-    "branch": "master",
-    "install_url": "git+https://github.com/MapsDex-Team/BallsDex-Crafting-Pack.git#master",
-    "name": "crafting",
-    "version": "0.3.1",
-    "description": "Crafting package for BallsDex",
-    "license": "",
-    "authors": [
-      {
-        "name": "Mitoooooooopo"
-      }
-    ],
-    "urls": {
-      "Repository": "https://github.com/Mitoooooooopo/Crafting-package-BD",
-      "Documentation": "https://github.com/Mitoooooooopo/Crafting-package-BD#readme",
-      "Issues": "https://github.com/Mitoooooooopo/Crafting-package-BD/issues"
-    },
-    "dependencies": []
-  },
-  {
     "id": "SpecialBonuses",
     "status": "unapproved",
     "repo": "https://github.com/cewlgruyere/SpecialBonuses",
     "branch": "main",
-    "install_url": "git+https://github.com/cewlgruyere/SpecialBonuses.git#main",
+    "install_url": "git+https://github.com/cewlgruyere/SpecialBonuses@v1.0.0",
     "name": "SpecialBonuses",
     "version": "1.0.0",
     "description": "This package gives stat buffs to collectibles with  a special! Like more to shiny balls and whatnot",
@@ -307,6 +285,9 @@
       }
     ],
     "urls": {},
+    "dependencies": []
+  },
+  {
     "id": "packs",
     "status": "unapproved",
     "repo": "https://github.com/seiftheman/ballsdex-packs",
