@@ -4,9 +4,9 @@
     "status": "approved",
     "repo": "https://github.com/flaree/ballsdex-collector",
     "branch": "master",
-    "install_url": "git+https://github.com/flaree/ballsdex-collector@0.0.2",
+    "install_url": "git+https://github.com/flaree/ballsdex-collector@v0.0.3",
     "name": "collector",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Collector package for BallsDex",
     "license": "MIT",
     "authors": [
