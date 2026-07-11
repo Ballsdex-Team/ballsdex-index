@@ -346,5 +346,30 @@
     },
     "dependencies": [],
     "stars": 0
+  },
+  {
+    "id": "Artistry",
+    "status": "unapproved",
+    "repo": "https://github.com/Caylies/Artistry",
+    "branch": "main",
+    "install_url": "git+https://github.com/Caylies/Artistry@1.0.0",
+    "name": "Artistry",
+    "version": "1.0.0",
+    "description": "A Ballsdex package designed for managing community-made art.",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Cayla",
+        "email": "official.dotzz@gmail.com"
+      }
+    ],
+    "urls": {
+      "Homepage": "https://caylies.github.io/Artistry/",
+      "Documentation": "https://caylies.github.io/Artistry/",
+      "Changelogs": "https://caylies.github.io/Artistry/changelog",
+      "Funding": "https://ko-fi.com/caylies"
+    },
+    "dependencies": [],
+    "stars": 0
   }
 ]
