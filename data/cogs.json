@@ -111,6 +111,11 @@
       "id": "Artistry",
       "repo": "https://github.com/Caylies/Artistry",
       "branch": "main"
-    }
+    },
+    {
+      "id": "tutorial",
+      "repo": "https://github.com/seiftheman/ballsdex-tutorial",
+      "branch": "main"
+    },
   ]
 }
