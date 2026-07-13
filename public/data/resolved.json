@@ -1,6 +1,5 @@
 [
   {
-    "id": "collector",
     "status": "approved",
     "repo": "https://github.com/flaree/ballsdex-collector",
     "branch": "master",
@@ -25,7 +24,6 @@
     "stars": 0
   },
   {
-    "id": "frames",
     "status": "unapproved",
     "repo": "https://github.com/flaree/ballsdex-frames",
     "branch": "master",
@@ -50,7 +48,6 @@
     "stars": 0
   },
   {
-    "id": "bd-labelmaker",
     "status": "unapproved",
     "repo": "https://github.com/dormieriancitizen/bd-labelmaker",
     "branch": "main",
@@ -72,7 +69,6 @@
     "stars": 0
   },
   {
-    "id": "leaderboard",
     "status": "unapproved",
     "repo": "https://github.com/cewlgruyere/Leaderboard-BD",
     "branch": "main",
@@ -96,7 +92,6 @@
     "stars": 0
   },
   {
-    "id": "dexscript",
     "status": "unapproved",
     "repo": "https://github.com/Caylies/DexScript",
     "branch": "BD-3.0",
@@ -119,7 +114,6 @@
     "stars": 9
   },
   {
-    "id": "v2-completion",
     "status": "unapproved",
     "repo": "https://github.com/cewlgruyere/V2-Completion",
     "branch": "main",
@@ -143,7 +137,6 @@
     "stars": 1
   },
   {
-    "id": "hiboman-rarity",
     "status": "unapproved",
     "repo": "https://github.com/MapsDex-Team/BallsDex-Rarity-Pack",
     "branch": "master",
@@ -167,7 +160,6 @@
     "stars": 1
   },
   {
-    "id": "bd-fontchanger",
     "status": "unapproved",
     "repo": "https://github.com/dormieriancitizen/bd-fontchanger",
     "branch": "main",
@@ -189,7 +181,6 @@
     "stars": 0
   },
   {
-    "id": "hiboman-leaderboard",
     "status": "unapproved",
     "repo": "https://github.com/MapsDex-Team/BallsDex-Leaderboard-Pack",
     "branch": "master",
@@ -213,7 +204,6 @@
     "stars": 1
   },
   {
-    "id": "re-collection",
     "status": "unapproved",
     "repo": "https://github.com/cewlgruyere/ReCol",
     "branch": "master",
@@ -233,7 +223,6 @@
     "stars": 0
   },
   {
-    "id": "hiboman-antifarm",
     "status": "unapproved",
     "repo": "https://github.com/MapsDex-Team/BallsDex-AntiFarm-Pack",
     "branch": "master",
@@ -257,7 +246,6 @@
     "stars": 1
   },
   {
-    "id": "hiboman-battle",
     "status": "unapproved",
     "repo": "https://github.com/MapsDex-Team/BallsDex-Battle-Pack",
     "branch": "master",
@@ -281,7 +269,6 @@
     "stars": 1
   },
   {
-    "id": "hiboman-crafting",
     "status": "unapproved",
     "repo": "https://github.com/MapsDex-Team/BallsDex-Crafting-Pack",
     "branch": "master",
@@ -304,7 +291,6 @@
     "stars": 1
   },
   {
-    "id": "SpecialBonuses",
     "status": "unapproved",
     "repo": "https://github.com/cewlgruyere/SpecialBonuses",
     "branch": "main",
@@ -324,7 +310,6 @@
     "stars": 0
   },
   {
-    "id": "packs",
     "status": "unapproved",
     "repo": "https://github.com/seiftheman/ballsdex-packs",
     "branch": "main",
@@ -348,7 +333,6 @@
     "stars": 0
   },
   {
-    "id": "Artistry",
     "status": "unapproved",
     "repo": "https://github.com/Caylies/Artistry",
     "branch": "main",
@@ -373,7 +357,6 @@
     "stars": 0
   },
   {
-    "id": "tutorial",
     "status": "unapproved",
     "repo": "https://github.com/seiftheman/ballsdex-tutorial",
     "branch": "main",
