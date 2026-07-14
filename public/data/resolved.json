@@ -334,6 +334,27 @@
   },
   {
     "status": "unapproved",
+    "repo": "https://github.com/Mitoooooooopo/CBattle-bd-",
+    "branch": "main",
+    "install_url": "git+https://github.com/Mitoooooooopo/CBattle-bd-@v0.3",
+    "name": "CBattle",
+    "version": "0.3",
+    "description": "a mini battle system written in c for ballsdex(exprimental)",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "noobdog667",
+        "email": "subinbklp@gmail.com"
+      }
+    ],
+    "urls": {},
+    "dependencies": [
+      "ballsdex>=3.0.0"
+    ],
+    "stars": 0
+  },
+  {
+    "status": "unapproved",
     "repo": "https://github.com/Caylies/Artistry",
     "branch": "main",
     "install_url": "git+https://github.com/Caylies/Artistry@1.1.0",
