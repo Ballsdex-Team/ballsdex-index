@@ -20,8 +20,7 @@
       "Changelogs": "https://ballsdex-collector.readthedocs.io/en/latest/changelog.html",
       "Funding": "https://www.patreon.com/flaree"
     },
-    "dependencies": [],
-    "stars": 0
+    "dependencies": []
   },
   {
     "status": "unapproved",
@@ -44,8 +43,7 @@
       "Changelogs": "https://ballsdex-frames.readthedocs.io/en/latest/changelog.html",
       "Funding": "https://www.patreon.com/flaree"
     },
-    "dependencies": [],
-    "stars": 0
+    "dependencies": []
   },
   {
     "status": "unapproved",
@@ -65,8 +63,7 @@
     "urls": {
       "homepage": "https://github.com/dormieriancitizen/bd-labelmaker"
     },
-    "dependencies": [],
-    "stars": 0
+    "dependencies": []
   },
   {
     "status": "unapproved",
@@ -88,8 +85,7 @@
       "Documentation": "https://github.com/cewlgruyere/Ballsdex-leaderboard-pack-v3#readme",
       "Issues": "https://github.com/cewlgruyere/Ballsdex-leaderboard-pack-v3/issues"
     },
-    "dependencies": [],
-    "stars": 0
+    "dependencies": []
   },
   {
     "status": "unapproved",
@@ -110,8 +106,7 @@
       "Homepage": "https://github.com/Caylies/DexScript",
       "Funding": "https://ko-fi.com/caylies"
     },
-    "dependencies": [],
-    "stars": 9
+    "dependencies": []
   },
   {
     "status": "unapproved",
@@ -133,8 +128,7 @@
       "Documentation": "https://github.com/cewlgruyere/V2-Completion#readme",
       "Issues": "https://github.com/cewlgruyere/V2-Completion/issues"
     },
-    "dependencies": [],
-    "stars": 1
+    "dependencies": []
   },
   {
     "status": "unapproved",
@@ -156,8 +150,7 @@
       "Documentation": "https://github.com/MapsDex-Team/BallsDex-Rarity-Pack#readme",
       "Issues": "https://github.com/MapsDex-Team/BallsDex-Rarity-Pack/issues"
     },
-    "dependencies": [],
-    "stars": 1
+    "dependencies": []
   },
   {
     "status": "unapproved",
@@ -177,8 +170,7 @@
     "urls": {
       "homepage": "https://github.com/dormieriancitizen/bd-fontchanger"
     },
-    "dependencies": [],
-    "stars": 0
+    "dependencies": []
   },
   {
     "status": "unapproved",
@@ -200,8 +192,7 @@
       "Documentation": "https://github.com/MapsDex-Team/BallsDex-Leaderboard-Pack#readme",
       "Issues": "https://github.com/MapsDex-Team/BallsDex-Leaderboard-Pack/issues"
     },
-    "dependencies": [],
-    "stars": 2
+    "dependencies": []
   },
   {
     "status": "unapproved",
@@ -219,8 +210,7 @@
       }
     ],
     "urls": {},
-    "dependencies": [],
-    "stars": 0
+    "dependencies": []
   },
   {
     "status": "unapproved",
@@ -242,8 +232,7 @@
       "Documentation": "https://github.com/MapsDex-Team/BallsDex-AntiFarm-Pack#readme",
       "Issues": "https://github.com/MapsDex-Team/BallsDex-AntiFarm-Pack/issues"
     },
-    "dependencies": [],
-    "stars": 1
+    "dependencies": []
   },
   {
     "status": "unapproved",
@@ -265,8 +254,7 @@
       "Documentation": "https://github.com/hiboman/BallsDex-Battle-Pack#readme",
       "Issues": "https://github.com/hiboman/BallsDex-Battle-Pack/issues"
     },
-    "dependencies": [],
-    "stars": 1
+    "dependencies": []
   },
   {
     "status": "unapproved",
@@ -287,8 +275,7 @@
       "Documentation": "https://github.com/Mitoooooooopo/Crafting-package-BD#readme",
       "Issues": "https://github.com/Mitoooooooopo/Crafting-package-BD/issues"
     },
-    "dependencies": [],
-    "stars": 1
+    "dependencies": []
   },
   {
     "status": "unapproved",
@@ -306,8 +293,7 @@
       }
     ],
     "urls": {},
-    "dependencies": [],
-    "stars": 0
+    "dependencies": []
   },
   {
     "status": "unapproved",
@@ -329,8 +315,7 @@
       "Documentation": "https://github.com/seiftheman/ballsdex-packs#readme",
       "Issues": "https://github.com/seiftheman/ballsdex-packs/issues"
     },
-    "dependencies": [],
-    "stars": 1
+    "dependencies": []
   },
   {
     "status": "unapproved",
@@ -350,8 +335,7 @@
     "urls": {},
     "dependencies": [
       "ballsdex>=3.0.0"
-    ],
-    "stars": 0
+    ]
   },
   {
     "status": "unapproved",
@@ -374,8 +358,7 @@
       "Changelogs": "https://caylies.github.io/Artistry/changelog",
       "Funding": "https://ko-fi.com/caylies"
     },
-    "dependencies": [],
-    "stars": 0
+    "dependencies": []
   },
   {
     "status": "unapproved",
@@ -397,7 +380,6 @@
       "Documentation": "https://github.com/seiftheman/ballsdex-tutorial#readme",
       "Issues": "https://github.com/seiftheman/ballsdex-tutorial/issues"
     },
-    "dependencies": [],
-    "stars": 0
+    "dependencies": []
   }
 ]
