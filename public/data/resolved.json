@@ -336,9 +336,9 @@
     "status": "unapproved",
     "repo": "https://github.com/Mitoooooooopo/CBattle-bd-",
     "branch": "main",
-    "install_url": "git+https://github.com/Mitoooooooopo/CBattle-bd-@v0.3",
+    "install_url": "git+https://github.com/Mitoooooooopo/CBattle-bd-@v0.4",
     "name": "CBattle",
-    "version": "0.3",
+    "version": "0.4",
     "description": "a mini battle system written in c for ballsdex(exprimental)",
     "license": "MIT",
     "authors": [
