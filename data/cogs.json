@@ -93,6 +93,10 @@
     {
       "repo": "https://github.com/seiftheman/ballsdex-tutorial",
       "branch": "main"
+    },
+    {
+      "repo": "https://github.com/cewlgruyere/Blessings",
+      "branch": "master"
     }
   ]
 }
