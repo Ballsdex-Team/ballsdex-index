@@ -354,9 +354,9 @@
     "status": "unapproved",
     "repo": "https://github.com/seiftheman/ballsdex-packs",
     "branch": "main",
-    "install_url": "git+https://github.com/seiftheman/ballsdex-packs@v1.7.0",
+    "install_url": "git+https://github.com/seiftheman/ballsdex-packs@v1.7.2",
     "name": "ballsdex-packs",
-    "version": "1.7.0",
+    "version": "1.7.2",
     "description": "Packs package for Ballsdex 3.0",
     "license": "MIT",
     "authors": [
