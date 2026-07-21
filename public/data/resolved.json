@@ -24,12 +24,31 @@
     "stars": 0
   },
   {
+    "status": "approved",
+    "repo": "https://github.com/flaree/ballsdex-currency",
+    "branch": "master",
+    "install_url": "git+https://github.com/flaree/ballsdex-currency@v0.1.1",
+    "name": "currency",
+    "version": "0.1.1",
+    "description": "Currency faucets for BallsDex: catch bounties, daily streak rewards and selling collectibles",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "flare",
+        "email": "flare@ballsdex.com"
+      }
+    ],
+    "urls": {},
+    "dependencies": [],
+    "stars": 0
+  },
+  {
     "status": "unapproved",
     "repo": "https://github.com/flaree/ballsdex-frames",
     "branch": "master",
-    "install_url": "git+https://github.com/flaree/ballsdex-frames@v0.0.7",
+    "install_url": "git+https://github.com/flaree/ballsdex-frames@v0.0.8",
     "name": "frames",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "description": "Frames package for BallsDex \u2014 date-based ball art overrides",
     "license": "MIT",
     "authors": [
@@ -42,6 +61,28 @@
       "Homepage": "https://github.com/flaree/ballsdex-frames",
       "Documentation": "https://ballsdex-frames.readthedocs.io/en/latest/",
       "Changelogs": "https://ballsdex-frames.readthedocs.io/en/latest/changelog.html",
+      "Funding": "https://www.patreon.com/flaree"
+    },
+    "dependencies": [],
+    "stars": 0
+  },
+  {
+    "status": "unapproved",
+    "repo": "https://github.com/flaree/ballsdex-crafting",
+    "branch": "master",
+    "install_url": "git+https://github.com/flaree/ballsdex-crafting@v0.0.2",
+    "name": "crafting",
+    "version": "0.0.2",
+    "description": "Crafting package for BallsDex",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "flare",
+        "email": "flare@ballsdex.com"
+      }
+    ],
+    "urls": {
+      "Homepage": "https://github.com/flaree/ballsdex-crafting",
       "Funding": "https://www.patreon.com/flaree"
     },
     "dependencies": [],
@@ -313,9 +354,9 @@
     "status": "unapproved",
     "repo": "https://github.com/seiftheman/ballsdex-packs",
     "branch": "main",
-    "install_url": "git+https://github.com/seiftheman/ballsdex-packs@v1.4.8",
+    "install_url": "git+https://github.com/seiftheman/ballsdex-packs@v1.7.0",
     "name": "ballsdex-packs",
-    "version": "1.4.8",
+    "version": "1.7.0",
     "description": "Packs package for Ballsdex 3.0",
     "license": "MIT",
     "authors": [
@@ -397,6 +438,25 @@
       "Documentation": "https://github.com/seiftheman/ballsdex-tutorial#readme",
       "Issues": "https://github.com/seiftheman/ballsdex-tutorial/issues"
     },
+    "dependencies": [],
+    "stars": 0
+  },
+  {
+    "status": "unapproved",
+    "repo": "https://github.com/cewlgruyere/Blessings",
+    "branch": "master",
+    "install_url": "git+https://github.com/cewlgruyere/Blessings@v1.0.0",
+    "name": "Blessings",
+    "version": "1.0.0",
+    "description": "Bless someone with another ball",
+    "license": "Apache-2.0",
+    "authors": [
+      {
+        "name": "cewlgruyere",
+        "email": "gruyere@remicrodex.com"
+      }
+    ],
+    "urls": {},
     "dependencies": [],
     "stars": 0
   }

@@ -3,6 +3,10 @@
     {
       "repo": "https://github.com/flaree/ballsdex-collector",
       "branch": "master"
+    },
+    {
+      "repo": "https://github.com/flaree/ballsdex-currency",
+      "branch": "master"
     }
   ],
   "unapproved": [
@@ -97,6 +101,10 @@
     {
       "repo": "https://github.com/cewlgruyere/BallGPT",
       "branch": "main"
+    },
+    {
+      "repo": "https://github.com/cewlgruyere/Blessings",
+      "branch": "master"
     }
   ]
 }
