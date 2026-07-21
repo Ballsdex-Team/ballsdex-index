@@ -68,6 +68,28 @@
   },
   {
     "status": "unapproved",
+    "repo": "https://github.com/flaree/ballsdex-crafting",
+    "branch": "master",
+    "install_url": "git+https://github.com/flaree/ballsdex-crafting@v0.0.2",
+    "name": "crafting",
+    "version": "0.0.2",
+    "description": "Crafting package for BallsDex",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "flare",
+        "email": "flare@ballsdex.com"
+      }
+    ],
+    "urls": {
+      "Homepage": "https://github.com/flaree/ballsdex-crafting",
+      "Funding": "https://www.patreon.com/flaree"
+    },
+    "dependencies": [],
+    "stars": 0
+  },
+  {
+    "status": "unapproved",
     "repo": "https://github.com/dormieriancitizen/bd-labelmaker",
     "branch": "main",
     "install_url": "git+https://github.com/dormieriancitizen/bd-labelmaker@v1.0.0",
@@ -416,6 +438,25 @@
       "Documentation": "https://github.com/seiftheman/ballsdex-tutorial#readme",
       "Issues": "https://github.com/seiftheman/ballsdex-tutorial/issues"
     },
+    "dependencies": [],
+    "stars": 0
+  },
+  {
+    "status": "unapproved",
+    "repo": "https://github.com/cewlgruyere/Blessings",
+    "branch": "master",
+    "install_url": "git+https://github.com/cewlgruyere/Blessings@v1.0.0",
+    "name": "Blessings",
+    "version": "1.0.0",
+    "description": "Bless someone with another ball",
+    "license": "Apache-2.0",
+    "authors": [
+      {
+        "name": "cewlgruyere",
+        "email": "gruyere@remicrodex.com"
+      }
+    ],
+    "urls": {},
     "dependencies": [],
     "stars": 0
   }
