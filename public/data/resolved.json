@@ -443,6 +443,25 @@
   },
   {
     "status": "unapproved",
+    "repo": "https://github.com/cewlgruyere/BallGPT",
+    "branch": "main",
+    "install_url": "git+https://github.com/cewlgruyere/BallGPT@v1.0.1",
+    "name": "BallGPT",
+    "version": "1.0.1",
+    "description": "Balls.. Balls gpt...... balls..",
+    "license": "Apache-2.0",
+    "authors": [
+      {
+        "name": "cewlgruyere",
+        "email": "gruyere@remicrodex.com"
+      }
+    ],
+    "urls": {},
+    "dependencies": [],
+    "stars": 0
+  },
+  {
+    "status": "unapproved",
     "repo": "https://github.com/cewlgruyere/Blessings",
     "branch": "master",
     "install_url": "git+https://github.com/cewlgruyere/Blessings@v1.0.0",
