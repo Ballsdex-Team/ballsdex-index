@@ -99,6 +99,10 @@
       "branch": "main"
     },
     {
+      "repo": "https://github.com/cewlgruyere/BallGPT",
+      "branch": "main"
+    },
+    {
       "repo": "https://github.com/cewlgruyere/Blessings",
       "branch": "master"
     }
