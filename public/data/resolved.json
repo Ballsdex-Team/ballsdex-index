@@ -156,6 +156,30 @@
   },
   {
     "status": "unapproved",
+    "repo": "https://github.com/CrashTestAlex/collectibles-ballsdex",
+    "branch": "main",
+    "install_url": "git+https://github.com/CrashTestAlex/collectibles-ballsdex@v1.1.0",
+    "name": "collect",
+    "version": "1.1.0",
+    "description": "Collectible items for your BallsDex clone! Must have currency enabled.",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "crashtestalex"
+      }
+    ],
+    "urls": {
+      "Repository": "https://github.com/CrashTestAlex/collectibles-ballsdex",
+      "Documentation": "https://github.com/CrashTestAlex/collectibles-ballsdex#readme",
+      "Issues": "https://github.com/CrashTestAlex/collectibles-ballsdex/issues"
+    },
+    "dependencies": [
+      "asgiref>=3.8.1"
+    ],
+    "stars": 0
+  },
+  {
+    "status": "unapproved",
     "repo": "https://github.com/cewlgruyere/V2-Completion",
     "branch": "main",
     "install_url": "git+https://github.com/cewlgruyere/V2-Completion@v0.0.41",
