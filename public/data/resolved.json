@@ -378,9 +378,9 @@
     "status": "unapproved",
     "repo": "https://github.com/seiftheman/ballsdex-packs",
     "branch": "main",
-    "install_url": "git+https://github.com/seiftheman/ballsdex-packs@v1.9.8",
+    "install_url": "git+https://github.com/seiftheman/ballsdex-packs@v1.9.9",
     "name": "ballsdex-packs",
-    "version": "1.9.8",
+    "version": "1.9.9",
     "description": "Packs package for Ballsdex 3.0",
     "license": "MIT",
     "authors": [
@@ -390,9 +390,9 @@
       }
     ],
     "urls": {
-      "Repository": "https://github.com/seiftheman/ballsdex-packs",
-      "Documentation": "https://github.com/seiftheman/ballsdex-packs#readme",
-      "Issues": "https://github.com/seiftheman/ballsdex-packs/issues"
+      "Repository": "https://github.com/FontsDex-Team/ballsdex-packs",
+      "Documentation": "https://github.com/FontsDex-Team/ballsdex-packs#readme",
+      "Issues": "https://github.com/FontsDex-Team/ballsdex-packs/issues"
     },
     "dependencies": [],
     "stars": 1
@@ -458,9 +458,9 @@
       }
     ],
     "urls": {
-      "Repository": "https://github.com/seiftheman/ballsdex-tutorial",
-      "Documentation": "https://github.com/seiftheman/ballsdex-tutorial#readme",
-      "Issues": "https://github.com/seiftheman/ballsdex-tutorial/issues"
+      "Repository": "https://github.com/FontsDex-Team/ballsdex-tutorial",
+      "Documentation": "https://github.com/FontsDex-Team/ballsdex-tutorial#readme",
+      "Issues": "https://github.com/FontsDex-Team/ballsdex-tutorial/issues"
     },
     "dependencies": [],
     "stars": 0
