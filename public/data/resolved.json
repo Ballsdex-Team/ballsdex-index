@@ -205,9 +205,9 @@
     "status": "unapproved",
     "repo": "https://github.com/MapsDex-Team/BallsDex-Rarity-Pack",
     "branch": "master",
-    "install_url": "git+https://github.com/MapsDex-Team/BallsDex-Rarity-Pack@0.0.5",
+    "install_url": "git+https://github.com/MapsDex-Team/BallsDex-Rarity-Pack@0.0.6",
     "name": "rarity",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "Rarity package for BallsDex",
     "license": "MIT",
     "authors": [
