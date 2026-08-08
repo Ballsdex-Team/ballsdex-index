@@ -105,6 +105,10 @@
     {
       "repo": "https://github.com/cewlgruyere/Blessings",
       "branch": "master"
+    },
+    {
+      "repo": "https://github.com/OLi51/ballsdex-aichat",
+      "branch": "main"
     }
   ]
 }
