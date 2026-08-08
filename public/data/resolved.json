@@ -205,9 +205,9 @@
     "status": "unapproved",
     "repo": "https://github.com/MapsDex-Team/BallsDex-Rarity-Pack",
     "branch": "master",
-    "install_url": "git+https://github.com/MapsDex-Team/BallsDex-Rarity-Pack@0.0.6",
+    "install_url": "git+https://github.com/MapsDex-Team/BallsDex-Rarity-Pack@0.0.5",
     "name": "rarity",
-    "version": "0.0.6",
+    "version": "0.0.5",
     "description": "Rarity package for BallsDex",
     "license": "MIT",
     "authors": [
@@ -244,6 +244,29 @@
     },
     "dependencies": [],
     "stars": 0
+  },
+  {
+    "status": "unapproved",
+    "repo": "https://github.com/MapsDex-Team/BallsDex-Leaderboard-Pack",
+    "branch": "master",
+    "install_url": "git+https://github.com/MapsDex-Team/BallsDex-Leaderboard-Pack@0.0.1",
+    "name": "leaderboard",
+    "version": "0.0.1",
+    "description": "Leaderboard package for BallsDex",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "hiboman",
+        "email": "hiboman@proton.me"
+      }
+    ],
+    "urls": {
+      "Repository": "https://github.com/MapsDex-Team/BallsDex-Leaderboard-Pack",
+      "Documentation": "https://github.com/MapsDex-Team/BallsDex-Leaderboard-Pack#readme",
+      "Issues": "https://github.com/MapsDex-Team/BallsDex-Leaderboard-Pack/issues"
+    },
+    "dependencies": [],
+    "stars": 2
   },
   {
     "status": "unapproved",
@@ -355,9 +378,9 @@
     "status": "unapproved",
     "repo": "https://github.com/seiftheman/ballsdex-packs",
     "branch": "main",
-    "install_url": "git+https://github.com/seiftheman/ballsdex-packs@v2.0.0",
+    "install_url": "git+https://github.com/seiftheman/ballsdex-packs@v2.0.1",
     "name": "ballsdex-packs",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "description": "Packs package for Ballsdex 3.0",
     "license": "MIT",
     "authors": [
