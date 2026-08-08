@@ -479,5 +479,33 @@
     "urls": {},
     "dependencies": [],
     "stars": 0
+  },
+  {
+    "status": "unapproved",
+    "repo": "https://github.com/OLi51/ballsdex-aichat",
+    "branch": "main",
+    "install_url": "git+https://github.com/OLi51/ballsdex-aichat@1.5.0",
+    "name": "ballsdex-aichat",
+    "version": "1.5.0",
+    "description": "A Gemini-powered AI chat companion for Ballsdex \u2014 mention or DM the bot to talk, with live access to the player's collection.",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "OLi51"
+      }
+    ],
+    "urls": {
+      "Homepage": "https://github.com/OLi51/ballsdex-aichat"
+    },
+    "dependencies": [
+      "google-genai>=1.0.0"
+    ],
+    "stars": 1,
+    "tags": [
+      "ai",
+      "chat",
+      "gemini",
+      "fun"
+    ]
   }
 ]
