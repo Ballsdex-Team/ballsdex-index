@@ -109,6 +109,10 @@
     {
       "repo": "https://github.com/OLi51/ballsdex-aichat",
       "branch": "main"
+    },
+    {
+      "repo": "https://github.com/Nipatsuplayer/collector-remade",
+      "branch": "main"
     }
   ]
 }
