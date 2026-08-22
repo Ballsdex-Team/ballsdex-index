@@ -111,35 +111,6 @@
   },
   {
     "status": "unapproved",
-    "repo": "https://github.com/cewlgruyere/Leaderboard-BD",
-    "branch": "main",
-    "install_url": "git+https://github.com/cewlgruyere/Leaderboard-BD@v1.0.51",
-    "name": "leaderboard",
-    "version": "1.0.51",
-    "description": "Leaderboard extension for BallsDex created by gruyere",
-    "license": "Apache-2.0",
-    "authors": [
-      {
-        "name": "cewlgruyere",
-        "email": "gruyere@remicrodex.com"
-      }
-    ],
-    "urls": {
-      "Repository": "https://github.com/cewlgruyere/Ballsdex-leaderboard-pack-v3",
-      "Documentation": "https://github.com/cewlgruyere/Ballsdex-leaderboard-pack-v3#readme",
-      "Issues": "https://github.com/cewlgruyere/Ballsdex-leaderboard-pack-v3/issues"
-    },
-    "dependencies": [],
-    "stars": 0,
-    "tags": [
-      "tuff",
-      "best extension FRFR",
-      "stats",
-      "fun"
-    ]
-  },
-  {
-    "status": "unapproved",
     "repo": "https://github.com/Caylies/DexScript",
     "branch": "BD-3.0",
     "install_url": "git+https://github.com/Caylies/DexScript@v0.5.1",
