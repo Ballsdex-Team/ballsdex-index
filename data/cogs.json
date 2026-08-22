@@ -31,10 +31,6 @@
       "branch": "main"
     },
     {
-      "repo": "https://github.com/cewlgruyere/Leaderboard-BD",
-      "branch": "main"
-    },
-    {
       "repo": "https://github.com/Caylies/DexScript",
       "branch": "BD-3.0"
     },
