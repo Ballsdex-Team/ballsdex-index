@@ -423,9 +423,9 @@
     "status": "unapproved",
     "repo": "https://github.com/seiftheman/ballsdex-tutorial",
     "branch": "main",
-    "install_url": "git+https://github.com/seiftheman/ballsdex-tutorial@v1.0.1",
+    "install_url": "git+https://github.com/seiftheman/ballsdex-tutorial@v1.0.2",
     "name": "ballsdex-tutorial",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Tutorial package for Ballsdex 3.0",
     "license": "MIT",
     "authors": [
