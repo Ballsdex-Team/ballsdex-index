@@ -390,9 +390,7 @@
       }
     ],
     "urls": {},
-    "dependencies": [
-      "ballsdex>=3.0.0"
-    ],
+    "dependencies": [],
     "stars": 0
   },
   {
