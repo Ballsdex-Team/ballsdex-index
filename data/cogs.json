@@ -105,6 +105,10 @@
     {
       "repo": "https://github.com/OLi51/ballsdex-aichat",
       "branch": "main"
+    },
+    {
+      "repo": "https://github.com/hiboman/BallsDex-CardStudio-Pack",
+      "branch": "master"
     }
   ]
 }
