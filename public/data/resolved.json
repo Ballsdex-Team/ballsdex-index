@@ -46,9 +46,9 @@
     "status": "unapproved",
     "repo": "https://github.com/flaree/ballsdex-frames",
     "branch": "master",
-    "install_url": "git+https://github.com/flaree/ballsdex-frames@v0.0.8",
+    "install_url": "git+https://github.com/flaree/ballsdex-frames@v0.0.9",
     "name": "frames",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "description": "Frames package for BallsDex \u2014 date-based ball art overrides",
     "license": "MIT",
     "authors": [
@@ -92,9 +92,9 @@
     "status": "unapproved",
     "repo": "https://github.com/dormieriancitizen/bd-labelmaker",
     "branch": "main",
-    "install_url": "git+https://github.com/dormieriancitizen/bd-labelmaker@v1.0.0",
+    "install_url": "git+https://github.com/dormieriancitizen/bd-labelmaker@v1.0.1",
     "name": "labelmaker_app",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Monkeypatch BallSpawnView for fun and profit",
     "license": "MIT",
     "authors": [
@@ -105,29 +105,6 @@
     ],
     "urls": {
       "homepage": "https://github.com/dormieriancitizen/bd-labelmaker"
-    },
-    "dependencies": [],
-    "stars": 0
-  },
-  {
-    "status": "unapproved",
-    "repo": "https://github.com/cewlgruyere/Leaderboard-BD",
-    "branch": "main",
-    "install_url": "git+https://github.com/cewlgruyere/Leaderboard-BD@v1.0.3",
-    "name": "leaderboard",
-    "version": "1.0.3",
-    "description": "Leaderboard extension for BallsDex created by gruyere",
-    "license": "Apache-2.0",
-    "authors": [
-      {
-        "name": "cewlgruyere",
-        "email": "gruyere@remicrodex.com"
-      }
-    ],
-    "urls": {
-      "Repository": "https://github.com/cewlgruyere/Ballsdex-leaderboard-pack-v3",
-      "Documentation": "https://github.com/cewlgruyere/Ballsdex-leaderboard-pack-v3#readme",
-      "Issues": "https://github.com/cewlgruyere/Ballsdex-leaderboard-pack-v3/issues"
     },
     "dependencies": [],
     "stars": 0
@@ -152,7 +129,7 @@
       "Funding": "https://ko-fi.com/caylies"
     },
     "dependencies": [],
-    "stars": 9
+    "stars": 8
   },
   {
     "status": "unapproved",
@@ -378,9 +355,9 @@
     "status": "unapproved",
     "repo": "https://github.com/seiftheman/ballsdex-packs",
     "branch": "main",
-    "install_url": "git+https://github.com/seiftheman/ballsdex-packs@v1.9.9",
+    "install_url": "git+https://github.com/seiftheman/ballsdex-packs@v2.2.4",
     "name": "ballsdex-packs",
-    "version": "1.9.9",
+    "version": "2.2.4",
     "description": "Packs package for Ballsdex 3.0",
     "license": "MIT",
     "authors": [
@@ -390,12 +367,12 @@
       }
     ],
     "urls": {
-      "Repository": "https://github.com/FontsDex-Team/ballsdex-packs",
-      "Documentation": "https://github.com/FontsDex-Team/ballsdex-packs#readme",
-      "Issues": "https://github.com/FontsDex-Team/ballsdex-packs/issues"
+      "Repository": "https://github.com/seiftheman/ballsdex-packs",
+      "Documentation": "https://github.com/seiftheman/ballsdex-packs#readme",
+      "Issues": "https://github.com/seiftheman/ballsdex-packs/issues"
     },
     "dependencies": [],
-    "stars": 1
+    "stars": 0
   },
   {
     "status": "unapproved",
@@ -413,9 +390,7 @@
       }
     ],
     "urls": {},
-    "dependencies": [
-      "ballsdex>=3.0.0"
-    ],
+    "dependencies": [],
     "stars": 0
   },
   {
@@ -446,9 +421,9 @@
     "status": "unapproved",
     "repo": "https://github.com/seiftheman/ballsdex-tutorial",
     "branch": "main",
-    "install_url": "git+https://github.com/seiftheman/ballsdex-tutorial@v1.0.1",
+    "install_url": "git+https://github.com/seiftheman/ballsdex-tutorial@v1.0.2",
     "name": "ballsdex-tutorial",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Tutorial package for Ballsdex 3.0",
     "license": "MIT",
     "authors": [
@@ -458,12 +433,12 @@
       }
     ],
     "urls": {
-      "Repository": "https://github.com/FontsDex-Team/ballsdex-tutorial",
-      "Documentation": "https://github.com/FontsDex-Team/ballsdex-tutorial#readme",
-      "Issues": "https://github.com/FontsDex-Team/ballsdex-tutorial/issues"
+      "Repository": "https://github.com/seiftheman/ballsdex-tutorial",
+      "Documentation": "https://github.com/seiftheman/ballsdex-tutorial#readme",
+      "Issues": "https://github.com/seiftheman/ballsdex-tutorial/issues"
     },
     "dependencies": [],
-    "stars": 0
+    "stars": 1
   },
   {
     "status": "unapproved",
@@ -502,5 +477,33 @@
     "urls": {},
     "dependencies": [],
     "stars": 0
+  },
+  {
+    "status": "unapproved",
+    "repo": "https://github.com/OLi51/ballsdex-aichat",
+    "branch": "main",
+    "install_url": "git+https://github.com/OLi51/ballsdex-aichat@1.5.0",
+    "name": "ballsdex-aichat",
+    "version": "1.5.0",
+    "description": "A Gemini-powered AI chat companion for Ballsdex \u2014 mention or DM the bot to talk, with live access to the player's collection.",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "OLi51"
+      }
+    ],
+    "urls": {
+      "Homepage": "https://github.com/OLi51/ballsdex-aichat"
+    },
+    "dependencies": [
+      "google-genai>=1.0.0"
+    ],
+    "stars": 1,
+    "tags": [
+      "ai",
+      "chat",
+      "gemini",
+      "fun"
+    ]
   }
 ]
