@@ -24,25 +24,6 @@
     "stars": 0
   },
   {
-    "status": "approved",
-    "repo": "https://github.com/flaree/ballsdex-currency",
-    "branch": "master",
-    "install_url": "git+https://github.com/flaree/ballsdex-currency@v0.1.1",
-    "name": "currency",
-    "version": "0.1.1",
-    "description": "Currency faucets for BallsDex: catch bounties, daily streak rewards and selling collectibles",
-    "license": "MIT",
-    "authors": [
-      {
-        "name": "flare",
-        "email": "flare@ballsdex.com"
-      }
-    ],
-    "urls": {},
-    "dependencies": [],
-    "stars": 0
-  },
-  {
     "status": "unapproved",
     "repo": "https://github.com/flaree/ballsdex-frames",
     "branch": "master",
