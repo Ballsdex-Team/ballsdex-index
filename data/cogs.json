@@ -95,10 +95,6 @@
       "branch": "main"
     },
     {
-      "repo": "https://github.com/seiftheman/ballsdex-role-reward",
-      "branch": "main"
-    },
-    {
       "repo": "https://github.com/cewlgruyere/BallGPT",
       "branch": "main"
     },
@@ -108,6 +104,10 @@
     },
     {
       "repo": "https://github.com/OLi51/ballsdex-aichat",
+      "branch": "main"
+    },
+    {
+      "repo": "https://github.com/seiftheman/ballsdex-role-reward",
       "branch": "main"
     }
   ]
