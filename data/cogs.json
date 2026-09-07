@@ -113,6 +113,10 @@
     {
        "repo": "https://github.com/Caylies/Crates",
        "branch": "main"
+    },
+    {
+      "repo": "https://github.com/seiftheman/ballsdex-role-reward",
+      "branch": "main"
     }
   ]
 }
