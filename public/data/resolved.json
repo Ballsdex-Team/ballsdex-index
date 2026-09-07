@@ -3,9 +3,9 @@
     "status": "approved",
     "repo": "https://github.com/flaree/ballsdex-collector",
     "branch": "master",
-    "install_url": "git+https://github.com/flaree/ballsdex-collector@v0.0.3",
+    "install_url": "git+https://github.com/flaree/ballsdex-collector@v0.0.4",
     "name": "collector",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "Collector package for BallsDex",
     "license": "MIT",
     "authors": [
@@ -20,25 +20,6 @@
       "Changelogs": "https://ballsdex-collector.readthedocs.io/en/latest/changelog.html",
       "Funding": "https://www.patreon.com/flaree"
     },
-    "dependencies": [],
-    "stars": 0
-  },
-  {
-    "status": "approved",
-    "repo": "https://github.com/flaree/ballsdex-currency",
-    "branch": "master",
-    "install_url": "git+https://github.com/flaree/ballsdex-currency@v0.1.1",
-    "name": "currency",
-    "version": "0.1.1",
-    "description": "Currency faucets for BallsDex: catch bounties, daily streak rewards and selling collectibles",
-    "license": "MIT",
-    "authors": [
-      {
-        "name": "flare",
-        "email": "flare@ballsdex.com"
-      }
-    ],
-    "urls": {},
     "dependencies": [],
     "stars": 0
   },
@@ -312,9 +293,9 @@
   },
   {
     "status": "unapproved",
-    "repo": "https://github.com/MapsDex-Team/BallsDex-Crafting-Pack",
-    "branch": "master",
-    "install_url": "git+https://github.com/MapsDex-Team/BallsDex-Crafting-Pack@0.3.1",
+    "repo": "https://github.com/Mitoooooooopo/Crafting-package-BD",
+    "branch": "main",
+    "install_url": "git+https://github.com/Mitoooooooopo/Crafting-package-BD@0.3.1",
     "name": "crafting",
     "version": "0.3.1",
     "description": "Crafting package for BallsDex",
@@ -355,9 +336,9 @@
     "status": "unapproved",
     "repo": "https://github.com/seiftheman/ballsdex-packs",
     "branch": "main",
-    "install_url": "git+https://github.com/seiftheman/ballsdex-packs@v2.2.4",
+    "install_url": "git+https://github.com/seiftheman/ballsdex-packs@v2.2.5",
     "name": "ballsdex-packs",
-    "version": "2.2.4",
+    "version": "2.2.5",
     "description": "Packs package for Ballsdex 3.0",
     "license": "MIT",
     "authors": [
@@ -504,6 +485,65 @@
       "chat",
       "gemini",
       "fun"
+    ]
+  },
+  {
+    "status": "unapproved",
+    "repo": "https://github.com/cewlgruyere/Leaderboard-BD",
+    "branch": "main",
+    "install_url": "git+https://github.com/cewlgruyere/Leaderboard-BD@v1.0.51",
+    "name": "leaderboard",
+    "version": "1.0.51",
+    "description": "the original Leaderboard extension for V3 by gruyere",
+    "license": "Apache-2.0",
+    "authors": [
+      {
+        "name": "cewlgruyere",
+        "email": "gruyere@remicrodex.com"
+      }
+    ],
+    "urls": {
+      "Repository": "https://github.com/cewlgruyere/Ballsdex-leaderboard-pack-v3",
+      "Documentation": "https://github.com/cewlgruyere/Ballsdex-leaderboard-pack-v3#readme",
+      "Issues": "https://github.com/cewlgruyere/Ballsdex-leaderboard-pack-v3/issues"
+    },
+    "dependencies": [],
+    "stars": 0,
+    "tags": [
+      "Fun",
+      "Stats",
+      "Economy",
+      "Leaderboard",
+      "Ranked"
+    ]
+  },
+  {
+    "status": "unapproved",
+    "repo": "https://github.com/Caylies/Crates",
+    "branch": "main",
+    "install_url": "git+https://github.com/Caylies/Crates@0.1.0",
+    "name": "crates",
+    "version": "0.1.0",
+    "description": "A Ballsdex package for crates, also referred to as packs.",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Cayla",
+        "email": "official.dotzz@gmail.com"
+      }
+    ],
+    "urls": {
+      "Homepage": "https://caylies.github.io/Crates/",
+      "Documentation": "https://caylies.github.io/Crates/",
+      "Changelogs": "https://caylies.github.io/Crates/changelog",
+      "Funding": "https://ko-fi.com/caylies"
+    },
+    "dependencies": [],
+    "stars": 0,
+    "tags": [
+      "packs",
+      "fun",
+      "configurable"
     ]
   }
 ]
