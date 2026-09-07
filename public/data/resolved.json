@@ -293,9 +293,9 @@
   },
   {
     "status": "unapproved",
-    "repo": "https://github.com/MapsDex-Team/BallsDex-Crafting-Pack",
-    "branch": "master",
-    "install_url": "git+https://github.com/MapsDex-Team/BallsDex-Crafting-Pack@0.3.1",
+    "repo": "https://github.com/Mitoooooooopo/Crafting-package-BD",
+    "branch": "main",
+    "install_url": "git+https://github.com/Mitoooooooopo/Crafting-package-BD@0.3.1",
     "name": "crafting",
     "version": "0.3.1",
     "description": "Crafting package for BallsDex",
@@ -485,6 +485,36 @@
       "chat",
       "gemini",
       "fun"
+    ]
+  },
+  {
+    "status": "unapproved",
+    "repo": "https://github.com/cewlgruyere/Leaderboard-BD",
+    "branch": "main",
+    "install_url": "git+https://github.com/cewlgruyere/Leaderboard-BD@v1.0.51",
+    "name": "leaderboard",
+    "version": "1.0.51",
+    "description": "the original Leaderboard extension for V3 by gruyere",
+    "license": "Apache-2.0",
+    "authors": [
+      {
+        "name": "cewlgruyere",
+        "email": "gruyere@remicrodex.com"
+      }
+    ],
+    "urls": {
+      "Repository": "https://github.com/cewlgruyere/Ballsdex-leaderboard-pack-v3",
+      "Documentation": "https://github.com/cewlgruyere/Ballsdex-leaderboard-pack-v3#readme",
+      "Issues": "https://github.com/cewlgruyere/Ballsdex-leaderboard-pack-v3/issues"
+    },
+    "dependencies": [],
+    "stars": 0,
+    "tags": [
+      "Fun",
+      "Stats",
+      "Economy",
+      "Leaderboard",
+      "Ranked"
     ]
   }
 ]
