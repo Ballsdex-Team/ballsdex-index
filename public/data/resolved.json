@@ -545,5 +545,24 @@
       "fun",
       "configurable"
     ]
+  },
+  {
+    "status": "unapproved",
+    "repo": "https://github.com/seiftheman/ballsdex-role-reward",
+    "branch": "main",
+    "install_url": "git+https://github.com/seiftheman/ballsdex-role-reward@v1.1.0",
+    "name": "ballsdex-role-reward",
+    "version": "1.1.0",
+    "description": "Role reward based on completion progression.",
+    "license": "",
+    "authors": [
+      {
+        "name": "Seif",
+        "email": "seiftheman1@gmail.com"
+      }
+    ],
+    "urls": {},
+    "dependencies": [],
+    "stars": 0
   }
 ]
