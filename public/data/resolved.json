@@ -73,9 +73,9 @@
     "status": "unapproved",
     "repo": "https://github.com/dormieriancitizen/bd-labelmaker",
     "branch": "main",
-    "install_url": "git+https://github.com/dormieriancitizen/bd-labelmaker@v1.0.1",
+    "install_url": "git+https://github.com/dormieriancitizen/bd-labelmaker@v1.1.0",
     "name": "labelmaker_app",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "description": "Monkeypatch BallSpawnView for fun and profit",
     "license": "MIT",
     "authors": [
@@ -543,5 +543,28 @@
     "urls": {},
     "dependencies": [],
     "stars": 0
+  },
+  {
+    "status": "unapproved",
+    "repo": "https://github.com/hiboman/BallsDex-CardStudio-Pack",
+    "branch": "master",
+    "install_url": "git+https://github.com/hiboman/BallsDex-CardStudio-Pack@0.0.1",
+    "name": "cardstudio",
+    "version": "0.0.1",
+    "description": "Full card customization for Ballsdex.",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "hiboman",
+        "email": "hiboman@proton.me"
+      }
+    ],
+    "urls": {
+      "Repository": "https://github.com/hiboman/BallsDex-CardStudio-Pack",
+      "Documentation": "https://github.com/hiboman/BallsDex-CardStudio-Pack#readme",
+      "Issues": "https://github.com/hiboman/BallsDex-CardStudio-Pack/issues"
+    },
+    "dependencies": [],
+    "stars": 1
   }
 ]
