@@ -87,7 +87,9 @@
     "urls": {
       "homepage": "https://github.com/dormieriancitizen/bd-labelmaker"
     },
-    "dependencies": [],
+    "dependencies": [
+      "emoji>=2.15.0"
+    ],
     "stars": 0
   },
   {
