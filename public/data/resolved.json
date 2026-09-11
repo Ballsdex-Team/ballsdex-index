@@ -548,9 +548,9 @@
     "status": "unapproved",
     "repo": "https://github.com/hiboman/BallsDex-CardStudio-Pack",
     "branch": "master",
-    "install_url": "git+https://github.com/hiboman/BallsDex-CardStudio-Pack@0.0.1",
+    "install_url": "git+https://github.com/hiboman/BallsDex-CardStudio-Pack@0.0.2",
     "name": "cardstudio",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Full card customization for Ballsdex.",
     "license": "MIT",
     "authors": [
