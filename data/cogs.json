@@ -119,6 +119,10 @@
       "branch": "master"
     },
     {
+      "repo": "https://github.com/hiboman/BallsDex-Suggestions-Pack",
+      "branch": "master"
+    },
+    {
       "repo": "https://github.com/Caylies/Plugin",
       "branch": "main"
     }
