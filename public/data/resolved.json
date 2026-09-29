@@ -568,5 +568,28 @@
     },
     "dependencies": [],
     "stars": 1
+  },
+  {
+    "status": "unapproved",
+    "repo": "https://github.com/hiboman/BallsDex-Suggestions-Pack",
+    "branch": "master",
+    "install_url": "git+https://github.com/hiboman/BallsDex-Suggestions-Pack@0.0.1",
+    "name": "suggestions",
+    "version": "0.0.1",
+    "description": "Suggestions package for BallsDex",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "hiboman",
+        "email": "hiboman@proton.me"
+      }
+    ],
+    "urls": {
+      "Repository": "https://github.com/hiboman/BallsDex-Suggestions-Pack",
+      "Documentation": "https://github.com/hiboman/BallsDex-Suggestions-Pack#readme",
+      "Issues": "https://github.com/hiboman/BallsDex-Suggestions-Pack/issues"
+    },
+    "dependencies": [],
+    "stars": 0
   }
 ]
