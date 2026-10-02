@@ -596,9 +596,9 @@
     "status": "unapproved",
     "repo": "https://github.com/Caylies/Plugin",
     "branch": "main",
-    "install_url": "git+https://github.com/Caylies/Plugin@0.1.0b1",
+    "install_url": "git+https://github.com/Caylies/Plugin@0.1.0b2",
     "name": "plugin",
-    "version": "0.1.0b1",
+    "version": "0.1.0b2",
     "description": "A Ballsdex package framework for providing extra capabilities to other packages.",
     "license": "MIT",
     "authors": [
