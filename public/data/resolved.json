@@ -500,9 +500,9 @@
     "status": "unapproved",
     "repo": "https://github.com/Caylies/Crates",
     "branch": "main",
-    "install_url": "git+https://github.com/Caylies/Crates@0.2.0",
+    "install_url": "git+https://github.com/Caylies/Crates@0.3.0",
     "name": "crates",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "A Ballsdex package for crates, also referred to as packs.",
     "license": "MIT",
     "authors": [
@@ -520,7 +520,7 @@
     "dependencies": [
       "query-builder-widget"
     ],
-    "stars": 0,
+    "stars": 1,
     "tags": [
       "packs",
       "fun",
