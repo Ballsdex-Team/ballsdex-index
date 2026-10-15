@@ -125,6 +125,10 @@
     {
       "repo": "https://github.com/Caylies/Plugin",
       "branch": "main"
+    },
+    {
+      "repo": "https://github.com/flaree/ballsdex-packs",
+      "branch": "master"
     }
   ]
 }
